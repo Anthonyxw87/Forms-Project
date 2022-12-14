@@ -1,0 +1,129 @@
+body {
+   margin: 10px;
+}
+
+/* heading style */
+#heading {
+   color: #ff0000;
+}
+
+/* User panel styles */
+#username-group {
+   margin-top: 2.5%;
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-bottom: 0%;
+}
+
+#firstName-group {
+   margin-top: 0%;
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-bottom: 0%;
+}
+
+#lastName-group {
+   margin-top: 0px;
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-bottom: 2.5%;
+}
+
+/* Contact Panel Styles */
+#phone-group {
+   margin-top: 2.5%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+}
+
+#fax-group {
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+}
+
+#e-mail-group {
+   margin-bottom: 2.5%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+}
+
+/* Schedule Panel Styles */
+#adults-group {
+   margin-top: 2.5%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+   margin-bottom: 0%;
+}
+
+
+#adults-dropdown {
+   margin-left: 2.5%;
+   width: 95%;
+   height: 25px;
+   border-radius: 3px;
+}
+
+#adult-row {
+   margin-top: 0%;
+   margin-bottom: -2.5%;
+}
+
+
+#check-in-and-out-group {
+   margin-top: 0%;
+   margin-bottom: 0%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+}
+
+#check-in-date,
+#check-out-date {
+   width: 100%;
+   border-color: #dee2e6 !important;
+   border-radius: 3px;
+   padding-top: 1.5%;
+   padding-bottom: 1.5%;
+}
+
+#days-cost-group {
+   margin-top: 0%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+   margin-bottom: 12%;
+}
+
+
+
+/* Other Panel Styles */
+#message-group {
+   margin-top: 2.5%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+   margin-bottom: 0%;
+}
+
+#range-group {
+   margin-top: 1%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+}
+
+#priority-group {
+   margin-top: 0%;
+   padding-left: 2.5%;
+   padding-right: 2.5%;
+}
+
+#priority-heading {
+   margin-left: 0.1%;
+   margin-bottom: 0%;
+}
+
+/*submit and reset button styles*/
+#reset-button,
+#submit-button {
+   border-radius: 8px;
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-left: 1%;
+}
